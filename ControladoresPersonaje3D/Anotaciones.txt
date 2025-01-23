@@ -1,0 +1,21 @@
+Requisitos del proyecto:
+
+* Unity 2018.4 o superior
+* C# como lenguaje de programación
+* Rigidbody y Collider en el personaje
+* Input System de Unity para detectar entradas del usuario
+* Un objeto con la etiqueta "Ground" para detectar colisiones con el suelo
+
+Funcionalidades:
+
+* Movimiento del personaje en todas direcciones
+* Salto del personaje
+* Agacharse del personaje
+* Correr del personaje
+* Golpear del personaje
+
+Notas:
+
+* Los scripts asumen que el personaje tiene un Rigidbody y un Collider.
+* Los scripts utilizan el Input System de Unity para detectar entradas del usuario.
+* El objeto con la etiqueta "Ground" debe ser un objeto estático que no se mueva.
