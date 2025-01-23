@@ -1,0 +1,12 @@
+Configuración de la escena
+
+    Bola:
+        Asigna el script BallController a la bola.
+        Asegúrate de que tenga un componente Rigidbody y un collider.
+    Bolos:
+        Crea bolos como prefabs.
+        Asigna el script Pin a cada bolo.
+        Asegúrate de que tengan un Rigidbody y un collider.
+    Gestión del juego:
+        Crea un GameObject vacío para el GameController y asigna los scripts 
+        GameController y PinManager.
